@@ -4,4 +4,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiscordFormative&hide=javascript,html,css&langs_count=8&theme=ayu-mirage" width = "% 100" height = "150px"/>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chaun14&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DiscordFormative&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src= "https://github-profile-trophy.vercel.app/?username=DiscordFormative&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy" width = "% 100" height = "150px"/>
