@@ -4,5 +4,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiscordFormative&hide=javascript,html,css&langs_count=8&theme=ayu-mirage" width = "% 100" height = "150px"/>
 </div>
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai
+https://github-profile-trophy.vercel.app/?DiscordFormative=ryo-ma&theme=monokai
 
