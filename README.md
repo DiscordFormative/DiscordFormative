@@ -11,3 +11,11 @@
 </div>
 
 </td><td valign="top" width="33%">
+
+## Builds
+
+GitHub Actions |
+:---: |
+[![GitHub Actions](https://github.com/DiscordFormative/DiscordFormative/workflows/Build%20master/badge.svg)](https://github.com/DiscordFormative/DiscordFormative/actions?query=branch%3Amaster) |
+[![Build History](https://buildstats.info/github/chart/DiscordFormative/DiscordFormative)](https://github.com/DiscordFormative/DiscordFormative/actions?query=branch%3Amaster) |
+
